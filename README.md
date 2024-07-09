@@ -1,4 +1,4 @@
-# Home a real estate Web App with React and Node.js
+# Homio a real estate Web App with React and Node.js
 
 ## Description
 This is a full-stack real estate web application that allows users to browse, search, and list properties. The application includes user authentication to ensure secure access. The frontend is built with React.js, while the backend is powered by Node.js and Prisma/mongodb.
